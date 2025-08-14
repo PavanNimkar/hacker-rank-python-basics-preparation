@@ -17,5 +17,4 @@ Each problem has:
 - **Functions & Recursion Basics**  
 - **Data Structures** – Lists, Tuples, Sets, Dictionaries  
 - **Itertools & Combinatorics**  
-- **Input/Output Handling**
-- **and many more!**
+- **Input/Output Handling** **and many more!**
