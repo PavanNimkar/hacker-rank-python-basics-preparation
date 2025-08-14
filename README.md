@@ -8,7 +8,6 @@ It covers essential Python concepts and is perfect for beginners or anyone prepa
 ## 📂 Repository Structure
 Each problem has:
 - A Python file (`.py`) containing the solution
-- 
 ---
 
 ## 🚀 Topics Covered
